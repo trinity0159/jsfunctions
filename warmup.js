@@ -1,3 +1,4 @@
+//Adding comment
 //Function that returns the highest number in an array
 function myMax(userArray){
 	var max = 0;
